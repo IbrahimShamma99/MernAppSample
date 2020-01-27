@@ -1,0 +1,23 @@
+{
+  "name": "MernAppSample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimShamma99/MernAppSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimShamma99/MernAppSample/issues"
+  },
+  "homepage": "https://github.com/IbrahimShamma99/MernAppSample#readme",
+  "dependencies": {
+    "mern-app-generator": "^0.2.9"
+  }
+}
